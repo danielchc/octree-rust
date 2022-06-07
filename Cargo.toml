@@ -1,0 +1,10 @@
+[package]
+name = "octree-rust"
+version = "0.1.0"
+edition = "2018"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+las="0.7.5"
+csv = "1.1"
+clap = { version ="3.1.17" , features = ["derive"]}

@@ -1,0 +1,9 @@
+lib
+data
+build
+cmake-build-*
+out
+.idea
+.vscode
+test_output
+target
